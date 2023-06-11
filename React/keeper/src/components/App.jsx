@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import Note from './Note';
-//import notes from '../samplenotes';
 import CreateArea from './CreateArea';
+//import notes from '../samplenotes';
 
 
 function App() {
